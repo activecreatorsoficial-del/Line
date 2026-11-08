@@ -1,0 +1,1 @@
+Upload this whole kit to the video-making ChatGPT and paste 04-prompt-for-chatgpt.txt. Main version: 70 seconds, English. Read 01-production-brief.md first. Captions are a timing guide to align to the recorded voiceover. Static UI references and brand assets are included; no video has been rendered in this kit.

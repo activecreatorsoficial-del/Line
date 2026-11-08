@@ -1,0 +1,4 @@
+# Replace the hostname, point its DNS at your server, and open ports 80/443.
+line.example.com {
+    reverse_proxy 127.0.0.1:8787
+}

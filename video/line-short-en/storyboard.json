@@ -1,0 +1,82 @@
+[
+  {
+    "start": 0,
+    "end": 4,
+    "title": "The problem",
+    "visual": "A PC and Android phone appear, with a video file between them. Cut into the real Line interface immediately; no long logo intro.",
+    "overlay": "PC to phone?",
+    "voiceover": "Need to move files from your PC to your phone?"
+  },
+  {
+    "start": 4,
+    "end": 11,
+    "title": "What Line does",
+    "visual": "Show the approved two-arrow Line icon, then real Windows and mobile reference screenshots. Add simple video/photo/document symbols as editorial graphics.",
+    "overlay": "Direct file sharing | Windows + Android | No account. No cloud storage.",
+    "voiceover": "Meet Line: share files between Windows and Android, with no account or cloud storage."
+  },
+  {
+    "start": 11,
+    "end": 21,
+    "title": "Choose a connection mode",
+    "visual": "Zoom onto Nearby / Internet. Explain both modes; select Nearby for the following demonstration. Keep the internet requirement card readable throughout this beat.",
+    "overlay": "Nearby: same local network. | Internet: reachable public IPv4 or IPv6. | Network restrictions apply.",
+    "voiceover": "Nearby connects devices on the same local network. Internet mode needs a reachable public address and compatible network access."
+  },
+  {
+    "start": 21,
+    "end": 30,
+    "title": "Create a room",
+    "visual": "Windows sender: choose Nearby, click Choose files, select an ordinary test file, then click Create sharing room. Use an editorial instruction card if a genuine recording of that state is unavailable.",
+    "overlay": "1. Choose your files. 2. Create sharing room.",
+    "voiceover": "On your PC, choose Nearby. Click Choose files and select your files. Then click Create sharing room."
+  },
+  {
+    "start": 30,
+    "end": 37,
+    "title": "Share access",
+    "visual": "Show that the sending device hosts the temporary room. Highlight Copy invitation and the separate eight-digit access code. Mask invitation contents and use only expired or dummy credentials.",
+    "overlay": "Your device hosts the room. | Share invitation + temporary code.",
+    "voiceover": "Your device hosts the room. Share the full invitation and the temporary eight-digit code."
+  },
+  {
+    "start": 37,
+    "end": 46,
+    "title": "Join on Android",
+    "visual": "Android receiver: open Receive, paste the complete invitation, enter the temporary code, then tap Join room. Crop closely enough that the fields and labels are readable.",
+    "overlay": "Receive -> paste invitation + code -> Join room",
+    "voiceover": "On the other device, open Receive. Paste the invitation and enter the code. Then tap Join room."
+  },
+  {
+    "start": 46,
+    "end": 53,
+    "title": "Verify and accept",
+    "visual": "Show matching security codes on both screens, then the receiver choosing Accept and receive. Distinguish this security comparison from the earlier eight-digit access code.",
+    "overlay": "Compare security codes. | Accept and receive.",
+    "voiceover": "Compare the security codes on both screens. Then tap Accept and receive."
+  },
+  {
+    "start": 53,
+    "end": 60,
+    "title": "Transfer",
+    "visual": "Show genuine progress on both devices, or a clearly labeled schematic transfer animation. Cut forward to completion; do not imply that a large file transferred in the duration of this shot.",
+    "overlay": "Keep Line running. | Encrypted transfer.",
+    "voiceover": "Keep Line running and watch the progress on both devices. Your files travel encrypted."
+  },
+  {
+    "start": 60,
+    "end": 66,
+    "title": "Save on Android",
+    "visual": "Show the actual Save to a folder on your phone action after completion. If that capture is missing, present the exact label as an editorial instruction, not a fabricated app button.",
+    "overlay": "Save a copy to a folder on your phone.",
+    "voiceover": "On Android, save a copy to a folder on your phone."
+  },
+  {
+    "start": 66,
+    "end": 70,
+    "title": "Brand finish",
+    "visual": "Finish on the two-arrow icon and Line wordmark. Add Windows + Android and a small By Active Creators credit. Add a download URL only when a real public link is provided.",
+    "overlay": "Line. Your files. No detours.",
+    "voiceover": "Line. Your files. No detours."
+  }
+]

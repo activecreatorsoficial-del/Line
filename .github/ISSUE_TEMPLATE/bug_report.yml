@@ -1,0 +1,32 @@
+name: Bug report
+description: Report a reproducible problem with Line.
+body:
+  - type: markdown
+    attributes:
+      value: Keep live invitations, responses, temporary codes, IP addresses and private files out of this public report. Use the Security tab for vulnerabilities.
+  - type: input
+    id: version
+    attributes:
+      label: Line version
+      placeholder: 0.9.0
+    validations:
+      required: true
+  - type: textarea
+    id: devices
+    attributes:
+      label: Devices and networks
+      description: Include both operating systems, which device sends, Nearby or Internet, and whether the devices share Wi-Fi or use separate networks.
+    validations:
+      required: true
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: Steps to reproduce
+      description: Explain what you did, what you expected and what happened.
+    validations:
+      required: true
+  - type: textarea
+    id: error
+    attributes:
+      label: Error message or screenshot
+      description: Redact connection invitations, codes, addresses and personal filenames.

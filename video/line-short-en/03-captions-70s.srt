@@ -1,0 +1,83 @@
+1
+00:00:00,000 --> 00:00:04,000
+Need to move files from your PC to your
+phone?
+
+2
+00:00:04,000 --> 00:00:07,500
+Meet Line: share files between Windows and
+Android,
+
+3
+00:00:07,500 --> 00:00:11,000
+with no account or cloud storage.
+
+4
+00:00:11,000 --> 00:00:15,500
+Nearby connects devices on the same local
+network.
+
+5
+00:00:15,500 --> 00:00:21,000
+Internet mode needs a reachable public
+address and compatible network access.
+
+6
+00:00:21,000 --> 00:00:24,000
+On your PC, choose Nearby.
+
+7
+00:00:24,000 --> 00:00:27,000
+Click Choose files and select your files.
+
+8
+00:00:27,000 --> 00:00:30,000
+Then click Create sharing room.
+
+9
+00:00:30,000 --> 00:00:33,000
+Your device hosts the room.
+
+10
+00:00:33,000 --> 00:00:37,000
+Share the full invitation and the
+temporary eight-digit code.
+
+11
+00:00:37,000 --> 00:00:40,000
+On the other device, open Receive.
+
+12
+00:00:40,000 --> 00:00:43,000
+Paste the invitation and enter the code.
+
+13
+00:00:43,000 --> 00:00:46,000
+Then tap Join room.
+
+14
+00:00:46,000 --> 00:00:50,000
+Compare the security codes on both
+screens.
+
+15
+00:00:50,000 --> 00:00:53,000
+Then tap Accept and receive.
+
+16
+00:00:53,000 --> 00:00:57,000
+Keep Line running and watch the progress
+on both devices.
+
+17
+00:00:57,000 --> 00:01:00,000
+Your files travel encrypted.
+
+18
+00:01:00,000 --> 00:01:06,000
+On Android, save a copy to a folder on
+your phone.
+
+19
+00:01:06,000 --> 00:01:10,000
+Line. Your files. No detours.
